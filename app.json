@@ -5,8 +5,14 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
+    "platforms": ["android"],
     "android": {
       "package": "com.stopjudolbyaldi.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "stop-judol-by-aldi"
+      }
     }
   }
 }
