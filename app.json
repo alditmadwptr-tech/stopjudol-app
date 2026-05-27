@@ -8,3 +8,6 @@
     "platforms": ["android"],
     "android": {
       "package": "com.stopjudolbyaldi.app"
+    }
+  }
+}
